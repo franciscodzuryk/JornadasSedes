@@ -23,6 +23,8 @@
             android:name=".SpeakerActivity"
             android:label="@string/title_activity_speaker"
             android:theme="@style/AppTheme.NoActionBar"></activity>
+
+        <activity android:name=".ScheduleActivity"></activity>
     </application>
 
 </manifest>
